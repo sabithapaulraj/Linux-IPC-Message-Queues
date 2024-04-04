@@ -89,10 +89,10 @@ return 0;
 
 
 ## OUTPUT
+![318186041-42cb381b-99ec-4839-bae4-f7cf0a95f2f7](https://github.com/sabithapaulraj/Linux-IPC-Message-Queues/assets/118343379/d8bfa89f-a8b1-49a6-81dd-175962e8ca3f)
 
-![image](https://github.com/dharshan7200/Linux-IPC-Message-Queues/assets/138850116/42cb381b-99ec-4839-bae4-f7cf0a95f2f7)
+![318186052-3e6e5e3a-5450-4755-92c7-50c80a36e605](https://github.com/sabithapaulraj/Linux-IPC-Message-Queues/assets/118343379/e6bfb60f-5e1d-4de6-9714-99db3eb9e477)
 
-![image](https://github.com/dharshan7200/Linux-IPC-Message-Queues/assets/138850116/3e6e5e3a-5450-4755-92c7-50c80a36e605)
 
 # RESULT:
 The programs are executed successfully.
