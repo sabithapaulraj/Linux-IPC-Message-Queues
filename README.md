@@ -89,9 +89,10 @@ return 0;
 
 
 ## OUTPUT
-![318186041-42cb381b-99ec-4839-bae4-f7cf0a95f2f7](https://github.com/sabithapaulraj/Linux-IPC-Message-Queues/assets/118343379/d8bfa89f-a8b1-49a6-81dd-175962e8ca3f)
+![image](https://github.com/sabithapaulraj/Linux-IPC-Message-Queues/assets/118343379/eb5c05e9-cce9-4746-8f97-fdae945642e7)
 
-![318186052-3e6e5e3a-5450-4755-92c7-50c80a36e605](https://github.com/sabithapaulraj/Linux-IPC-Message-Queues/assets/118343379/e6bfb60f-5e1d-4de6-9714-99db3eb9e477)
+![image](https://github.com/sabithapaulraj/Linux-IPC-Message-Queues/assets/118343379/d1d98dd1-e129-46c0-82f2-7ec3694ffc46)
+
 
 
 # RESULT:
